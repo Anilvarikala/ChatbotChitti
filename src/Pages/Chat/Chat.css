@@ -1,0 +1,7 @@
+.chat-app{
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background:linear-gradient(#596AFF,#383699);
+  
+}
